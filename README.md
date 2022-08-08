@@ -1,2 +1,2 @@
 # USYD
-For recording my cs learning
+For recording my cs learning in USYD
